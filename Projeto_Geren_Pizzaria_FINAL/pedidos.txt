@@ -1,0 +1,14 @@
+1--20/06/2025--Wagner--Frango--27,00--Tradicional
+1--20/06/2025--Wagner--Marguerita--40,25--Especial
+2--20/06/2025--Yan--Calabresa--27,00--Tradicional
+2--20/06/2025--Yan--Da casa--40,25--Especial
+3--20/06/2025--Neymar--Frango--24,30--Tradicional
+3--20/06/2025--Neymar--Da casa--40,25--Especial
+3--20/06/2025--Neymar--Da casa--40,25--Especial
+1--20/06/2025--Wagner--Frango--27,00--Tradicional
+1--20/06/2025--Wagner--Marguerita--40,25--Especial
+2--20/06/2025--Yan--Calabresa--27,00--Tradicional
+2--20/06/2025--Yan--Da casa--40,25--Especial
+3--20/06/2025--Neymar--Frango--24,30--Tradicional
+3--20/06/2025--Neymar--Da casa--40,25--Especial
+3--20/06/2025--Neymar--Da casa--40,25--Especial
